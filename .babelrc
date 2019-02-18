@@ -1,0 +1,11 @@
+{
+  "presets": [
+    [
+      "react-app"
+    ]
+  ],
+  "plugins": [
+    "transform-runtime", 
+    ["import", {  "libraryName": "antd", "style": "css"}]
+  ]
+}
